@@ -1,6 +1,10 @@
 ## 👋 Hi there, I'm Rafli Harris  
 
-| - :basecamp: I'm from Indonesia
+| I'm Mohammed EL Badry, a 2nd-year student from Morocco. I'm passionate about [React](https://github.com/facebook/react), [React Native](https://github.com/facebook/react-native), [Laravel](https://laravel.com/), and I love diving into web and mobile development. I believe in the power of technology to transform lives and create meaningful solutions. Let's connect and collaborate on exciting projects to make a positive impact! | | 
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+
+| 
+- :basecamp: I'm from Indonesia
 - :school:I am a student at Insan Cita Indonesia University majoring in industrial engineering
 - :electron: I love to explore **Industrial Engineering Sciences** and **Industrial Engineering Design & Problem Based Experiments**
 - :four_leaf_clover: I love music and play the games
