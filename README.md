@@ -1,12 +1,11 @@
-## 👋 Hi, I'm Sukmasarny  
+## 👋 Hi, I'm Rafli Harris  
 
 ### Welcome to my GitHub!
 - :basecamp: I'm from Indonesia
-- :school:I'm a graduate of the Chemical Engineering Department from Jayabaya University with a Bachelor of Chemical Engineering degree
-- :electron: I love to explore **Data science** and **Data analyst**
-- :briefcase: I'm a part of Lautan Luas Tbk
-- :four_leaf_clover: I love music, especially classical music and hip hop
-- :dizzy:As a data enthusiast, I have a strong growth mindset. I take various courses to improve my skills in the data science field
+- :school:I am a student at Insan Cita Indonesia University majoring in industrial engineering
+- :electron: I love to explore **Industrial Engineering Sciences** and **Industrial Engineering Design & Problem Based Experiments**
+- :four_leaf_clover: I love music and play the games
+- :dizzy:As a sciences enthusiast, I have a strong growth mindset. I take various courses to improve my skills in the science field
 - :dizzy:I'm a quick learner, detail-oriented, and able to communicate technical matters in a simple way
 
 ---
@@ -17,10 +16,8 @@ This is my Curriculum Vitae :
 ### My favorite tools
 ---
 
-* [Python](https://www.python.org/) - Software development, web scraping and development, data analysis and visualization, and machine learning
+* [Excel](https://www.microsoft.com/id-id/microsoft-365/excel) -  sebuah program aplikasi lembar kerja yang dibuat dan didistribusikan oleh Microsoft Corporation yang dapat dijalankan pada Microsoft Windows dan Mac OS
 * [VSCode](https://code.visualstudio.com/) - Code editor redefined and optimized for building and debugging modern web and cloud applications
-* [Dbeaver](https://dbeaver.io/) - Universal tools A free, multi-platform database for developers, database administrators, analysts, and anyone else who needs to work with databases
-* [RStudio](https://posit.co/) - versatile and extensible BI tool powered by machine learning and is capable of insightful statistical data analysis and forecasting capabilities
 <br><br>
 
 
