@@ -54,3 +54,14 @@ You can find me on:
 
 ---
 <p>
+
+Oktober	
+rafli+kuliah	
+kosan	800
+kosan rafli	
+makan	2000
+bensin 	200
+pulsa	300
+mama	1000
+tabung	3700
+
