@@ -27,7 +27,7 @@ This is my Curriculum Vitae :
 ## GitHub
 ---
 
-![sukmasarny GitHub stats](https://github-readme-stats.vercel.app/api?username=sukmasarny&show_icons=true&theme=transparent,contribs&title_color=00875A&icon_color=006644&text_color=1B262C&bg_color=F5F7FA) <br>
+![Rafli Harris GitHub stats](https://github-readme-stats.vercel.app/api?username=sukmasarny&show_icons=true&theme=transparent,contribs&title_color=00875A&icon_color=006644&text_color=1B262C&bg_color=F5F7FA) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukmasarny&layout=compact) <br> 
 
 Learning Progress Review & Weekly Progress Report:
@@ -54,7 +54,7 @@ Thank you for visiting my GitHub profile. Have a nice day!
 
 You can find me on:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sukma-sarny-934380111/)](https://www.linkedin.com/in/sukma-sarny-934380111/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rafli-harris-0b8b19280/)](https://www.linkedin.com/in/rafli-harris-0b8b19280/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_wht.s_/?igshid=ZDdkNTZiNTM%3D/)](https://www.instagram.com/_wht.s_/?igshid=ZDdkNTZiNTM%3D/)
 
 ---
