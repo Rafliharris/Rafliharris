@@ -55,17 +55,6 @@ You can find me on:
 ---
 <p>
 
-okt	Semester 3
-rafli+kuliah	450
-kosan	800
-	
-makan	1500
-bensin 	200
-pulsa	300
-mama	1000
-tabung	2750
-	
-kuliah	1000
 ![gambar](https://github.com/user-attachments/assets/414ec891-041d-4209-901e-4a5dbfc002cc)
 
 
