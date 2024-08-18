@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Rafli Harris  
+## 👋 Hi there, I'm Rafli Harris  
 
 ### Welcome to my GitHub!
 - :basecamp: I'm from Indonesia
