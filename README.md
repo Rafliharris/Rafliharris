@@ -55,6 +55,5 @@ You can find me on:
 ---
 <p>
 
-![gambar](https://github.com/user-attachments/assets/414ec891-041d-4209-901e-4a5dbfc002cc)
 
 
