@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋 there</h1>
- <br><br>
+---
 
 | I am Rafli Harris, a student at Insan Cita Indonesia University majoring in industrial engineering. I am interested in Industrial Engineering Sciences and Industrial Engineering Design & Problem Based Experiments. As a science enthusiast, I have a strong growth mindset. I took various courses to improve my skills in the field of science. Apart from that, I am a fast learner, detail oriented, and able to communicate technical matters in a simple way !| | 
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
