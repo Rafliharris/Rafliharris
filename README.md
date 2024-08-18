@@ -1,5 +1,13 @@
 ## 👋 Hi there, I'm Rafli Harris  
 
+| - :basecamp: I'm from Indonesia
+- :school:I am a student at Insan Cita Indonesia University majoring in industrial engineering
+- :electron: I love to explore **Industrial Engineering Sciences** and **Industrial Engineering Design & Problem Based Experiments**
+- :four_leaf_clover: I love music and play the games
+- :dizzy:As a sciences enthusiast, I have a strong growth mindset. I take various courses to improve my skills in the science field
+- :dizzy:I'm a quick learner, detail-oriented, and able to communicate technical matters in a simple way  | | 
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+
 ### Welcome to my GitHub!
 - :basecamp: I'm from Indonesia
 - :school:I am a student at Insan Cita Indonesia University majoring in industrial engineering
